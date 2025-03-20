@@ -21,3 +21,7 @@ O projeto é voltado para **estudantes iniciantes no piano** que não possuem ac
 - **Desenvolvedor Backend** – Emilly Vitoria (emillyfernb)  
 - **Desenvolvedor Frontend e Designer** – Julio Cesar  
 - **Desenvolvedor Frontend e Designer** – Daniel Eduardo  
+
+<a href="https://www.tinkercad.com/things/aEWSyZdIjGP-piano-com-leds-2-protoboards?sharecode=BNVdf9izXELXVY2jGTgpysTxdwZR4K1D-Vpm_em6TBs">Link do Projeto no Tinkercad</a>
+
+<img src="circuito.png" alt="Imagem ilustrativa do circuito">
