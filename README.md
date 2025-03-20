@@ -16,11 +16,12 @@ O projeto é voltado para **estudantes iniciantes no piano** que não possuem ac
 
 ## Equipe  
 - **Líder de Projeto** – Antonio Mateus (teuosx)  
-- **Desenvolvedor Backend** – Eduarda Noronha (Eduarrda7444)  
-- **Desenvolvedor Backend** – Murilo Alves (Muril08)  
-- **Desenvolvedor Backend** – Emilly Vitoria (emillyfernb)  
-- **Desenvolvedor Frontend e Designer** – Julio Cesar  
-- **Desenvolvedor Frontend e Designer** – Daniel Eduardo  
+- **Modeladora 3d** – Eduarda Noronha (Eduarrda7444)  
+- **Modelador 3d** – Murilo Alves (Muril08)  
+- **Confecção de modelo físico** – Emilly Vitoria (emillyfernb)  
+- **Confecção de modelo físico** – Julio Cesar  
+- **Confecção de modelo físico** – Daniel Eduardo
+- **Elaborador do circuito** - Pedro Gustavo (Gustavo7327)
 
 <a href="https://www.tinkercad.com/things/aEWSyZdIjGP-piano-com-leds-2-protoboards?sharecode=BNVdf9izXELXVY2jGTgpysTxdwZR4K1D-Vpm_em6TBs">Link do Projeto no Tinkercad</a>
 
